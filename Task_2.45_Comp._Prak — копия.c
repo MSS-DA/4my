@@ -1,10 +1,7 @@
-//
-//
 //  Task_2.45_Comp._Prak.
 //
 //  Created by Denis Ashurov on 12.10.18.
 //  Copyright © 2018 Denis Ashurov. All rights reserved.
-//
 
 
 #include <stdio.h>
